@@ -1,0 +1,5 @@
+Esam El-Kholy
+Copyright 2016 and onwards The Catalyst Project.
+
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).

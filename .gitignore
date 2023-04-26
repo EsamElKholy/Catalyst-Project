@@ -1,0 +1,9 @@
+Intermediates/
+*.opendb
+*.zip
+bin/
+.vs/
+*.filters
+*.vcxproj
+*.db
+middleware/

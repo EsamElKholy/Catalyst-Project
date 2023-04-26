@@ -1,2 +1,2 @@
 # Catalyst-Project
-Digging up old engine project
+Simple opengl game engine
